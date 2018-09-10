@@ -1,0 +1,44 @@
+.u1{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	background-color: gray;
+	text-align: center;
+}
+.l1, .l2, .l3{
+	display: inline-block;
+
+}
+
+ a{
+	font-family: 'Slabo 27px', serif;
+	text-decoration: none;
+	font-size:  16px;
+	display: block;
+	padding: 6px;
+	color: black;
+}
+.u1 a:hover{
+color:white;
+background-color: gray;
+border-right-width: 5px;
+border-right-color: white;
+text-decoration: underline;
+}
+
+h1{
+	color: red;
+	font-size: 50px;
+	font-family: 'Fugaz One', cursive;
+
+}
+.l4:hover{
+	color:  skyblue; 
+	text-decoration: underline;
+	border-right-color: white;
+}
+.l5:hover{
+	color:  skyblue; 
+	text-decoration: underline;
+	border-right-color: white;
+}
